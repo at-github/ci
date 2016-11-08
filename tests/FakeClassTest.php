@@ -15,6 +15,6 @@ class FakeClassTest extends PHPUnit_Framework_TestCase
 
     public function testFakeTwo()
     {
-        $this->assertTrue(False);
+        $this->assertTrue(true);
     }
 }
